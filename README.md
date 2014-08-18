@@ -1,11 +1,10 @@
 Adventure
 ---
+*Fancy little job posting that is oldschool and somuchcool.*
 
-* Fancy little job posting that is oldschool and somuchcool. *
+**Setting up**
 
-** Setting up **
-
-It's recommended to use a virualenv to setup.
+*It's recommended to use a virualenv to setup.*
 
 install the dependencies with pip
 
@@ -20,3 +19,7 @@ now try
 `curl http://localhost:8989/adventure`
 
 That's cool right?
+
+**The story**
+
+We have [written about this](http://play.thinkcube.com/python-adventure-job-posting.html) on our engineering blog.
