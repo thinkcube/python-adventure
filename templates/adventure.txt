@@ -1,0 +1,50 @@
+                              8MMMMMMMMMMMMMMMMMMMMMMMM.                            
+                           ?MMMMMMMMMMMMMMMMMMMMMMMMN   8M                          
+                        .MMMMMMMMMMMMMMMMMMMMMMMMM,   MMMMM                         
+                      MMMMMMMMMMMMMMMMMMMMMMMMMM.  .MMMMMMM,                        
+                  .MMMMMMMMMMMMMMMMMMMMMMMMMM+   ?MMMMMMMMMM                        
+                $MMMMMMMMMMMMMMMMMMMMMMMMMM    MMMMMMMMMMMMM8                       
+             :MMMMMMMMMMMMMMMMMMMMMMMMMM8   ,MMMMMMMMMMMMMMMM.                      
+         ..MMMMMMMMMMMMMMMMMMMMMMMMMMM.   ZMMMMMMM8778MMMMMMMM                      
+        :DMMMMMMMMMMMMMMMMMMMMMMMMM8   .DMMMMD          MMMMMM~                     
+             .NMMMMMMMMMMMMMMMMMM=    MMMMM8     =DMM7.MMMMMMMM                     
+        IMMO      .MMMMMMMMMMMM.   :MMMMMM    8MMMMMMMMMMMMMMMMO                    
+         ~MMMMMM.       MMMMD    8MMMMMMM.  8MMMMMMMMMMMMMMMMMMM.                   
+           MMMMMMMMM~          MMMMMMMMM  .MMMMMMMMMMMMMMMMMMMMMM.                  
+           ~MMMMMMMMMMMMN    :MMMMMMMMM:  8MMMMMMMMMMMMMMMMMMMMMM=                  
+            .MMMMMMMMMMMMMM.  :MMMMMMMM   MMMMMMMMMMMMMMMMMMMMMMMM.                 
+              MMMMMMMMMMMMMM   .MMMMMMM  .MMMMMMMMMMMMMMMM:  ZMMMMN                 
+               MMMMMMMMMMMMMM.  $MMMMMM   MMMMMMMMMMMMMMMI  +MMMMMM                 
+                MMMMMMMMMMMMMM.  7MMMMM   =MMMMMMMMMMMMM   ?MMMMMO                  
+                 MMMMMMMMMMMMMM.  IMMMMM    MMMMMMMMMM~  .8MMMMM.                   
+                  MMMMMMMMMMMMMM.  NMMMMM    .ZMMMD~    =MMMMM                      
+                  .MMMMMMMMMMMMMM.  MMMMMM?          .ZMMMMM:                       
+                    MMMMMMMMMMMMMM.  MMMMMMMM8:  .OMMMMMMMD                         
+                     MMMMMMMMMMMMMM   MMMMMMMMMMMMMMMMMMN                           
+                       NMMMMMMMMMMMM   MMMMMMMMMMMMMMMM                             
+                         .OMMMMMMMMMM   MMMMMMMMMMMMM                               
+                             IMMMMMMMM.  MMMMMMMMMM,                                
+                                ~MMMMMM   MMMMMMM7                                  
+                                   +MMMM  .MMMM8                                    
+                                      =MM  ,MM.                                     
+                                         =                                          
+
+linux, nginx, python, gunicorn, flask, celery, redis, lua, docker, apache, 
+mysql.
+
+Those are some of the stuff we are playing with at thinkcube. The list might 
+scare away some people but for the passionate, the work will feel like a fun 
+adventure.
+
+If you think you are good with python and happy to work with unix (or Linux to 
+be specific) apply right now with a document that gives us an idea about the 
+things you've done in the past and show us what makes you fit for the job.
+
+You don't have to leave the command line to apply. Just use curl.
+
+curl -F "file=@</path/to/your/resume.txt>" http://thinkcube.com/apply
+
+Yes, we accept plaintext files!
+
+If you are just out of university and think you are ready for the challenge, 
+apply all the same.

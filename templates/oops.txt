@@ -1,0 +1,8 @@
+Oops! Looks like something went wrong with the upload.
+
+If your curl command looks good,
+    it's either you are trying to upload unsupported file format
+    or it must be our fault!
+
+If all fails try emailing us on jobs@thinkcube.com
+
